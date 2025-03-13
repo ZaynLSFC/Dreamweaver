@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<table width="1340" height="437" border="1">
+<table width="1340" height="437" border="0">
   <tbody>
     <tr>
       <td width="52">&nbsp;</td>
@@ -17,12 +17,12 @@
     <tr>
       <td height="51">&nbsp;</td>
       <td>&nbsp;</td>
-      <td width="180">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Page 1</td>
-      <td width="175">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Page 2</td>
+      <td width="180">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="Page1.html">Page 1</a></td>
+      <td width="175">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="Page2.html">Page 2</a></td>
       <td width="166">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Page 3</td>
       <td width="188">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Checkout Basket</td>
       <td width="186">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feedback Page</td>
-      <td width="164">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Home Page</td>
+      <td width="164">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="Background.html">Home Page</a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -41,8 +41,15 @@
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td colspan="6" rowspan="4"><p>Paprika</p>
-      <p>Paprika  is a spice made from dried and ground red peppers. It is traditionally made from Capsicum annuum varietals in the Longum group. Known for its vibrant red color and a mild, slightly sweet, and smoky flavor,  aprika is commonly used to add color and flavor to a wide range of dishes, including stews, soups, rice dishes, and as a garnish on various foods</p></td>
+      <td colspan="6" rowspan="4"><h1>Paprika</h1>
+      <p><strong>Paprika  is a spice made from dried and ground red peppers. It is traditionally made from Capsicum annuum varietals in the Longum group. Known for its vibrant red color and a mild, slightly sweet, and smoky flavor,  aprika is commonly used to add color and flavor to a wide range of dishes, including stews, soups, rice dishes, and as a garnish on various foods.</strong></p>
+      <ol>
+        <li><strong>25g/0.88oz - £1.25</strong><br>
+        </li>
+        <li><strong>42g/1.48oz - £2.50</strong></li>
+        <li><strong>56g/1.98oz - £3.75</strong></li>
+        </ol>
+      <p>&nbsp;</p></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
